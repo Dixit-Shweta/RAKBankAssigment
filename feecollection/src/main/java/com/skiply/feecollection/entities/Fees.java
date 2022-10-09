@@ -1,5 +1,7 @@
 package com.skiply.feecollection.entities;
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Date;
 
 import javax.persistence.CascadeType;
